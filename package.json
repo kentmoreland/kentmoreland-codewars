@@ -1,0 +1,18 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "My solutions to toy problems from the CodeWars site. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kent Moreland <kentmoreland@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.9.1",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^3.0.1",
+    "eslint-plugin-react": "^6.6.0"
+  }
+}
