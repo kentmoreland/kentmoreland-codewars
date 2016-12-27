@@ -1,0 +1,23 @@
+{
+  "name": "alternating-loops",
+  "version": "1.0.0",
+  "description": "Codewars problem",
+  "main": "alternatingLoops.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentmoreland/kentmoreland-codewars.git"
+  },
+  "author": "kentmoreland@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kentmoreland/kentmoreland-codewars/issues"
+  },
+  "homepage": "https://github.com/kentmoreland/kentmoreland-codewars#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
