@@ -1,0 +1,15 @@
+{
+  "name": "string-suffixes",
+  "version": "1.0.0",
+  "description": "Codewars word problem",
+  "main": "stringSuffixes.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "author": "kentmoreland@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
